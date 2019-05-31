@@ -11,23 +11,23 @@ Peter Watts - Blindsight
 
 Peter Watts - The Things ([read online](http://clarkesworldmagazine.com/watts_01_10/))
 
-Richard K Morgan - Altered Carbon Trilogy ([excerpt] (http://www.infinityplus.co.uk/stories/alteredcarbon.htm))
+Richard K Morgan - Altered Carbon Trilogy ([excerpt](http://www.infinityplus.co.uk/stories/alteredcarbon.htm))
 
 Charles Stross - The Laundry Files
 
-Charles Stross - Equoid [read online] (https://www.tor.com/2013/09/24/equoid/)
+Charles Stross - Equoid ([read online](https://www.tor.com/2013/09/24/equoid/)
 
-Charles Stross - A Colder War [read online] (http://www.infinityplus.co.uk/stories/colderwar.htm)
+Charles Stross - A Colder War ([read online](http://www.infinityplus.co.uk/stories/colderwar.htm))
 
 Jim Butcher - The Dresden Files
 
 Neal Stephenson - Snow Crash
 
-David Langford - BLIT [read online] (http://www.infinityplus.co.uk/stories/blit.htm)
+David Langford - BLIT ([read online](http://www.infinityplus.co.uk/stories/blit.htm))
 
-David Langford - Different Kinds of Darkness ([read online] (http://www.lightspeedmagazine.com/fiction/different-kinds-of-darkness/))
+David Langford - Different Kinds of Darkness ([read online](http://www.lightspeedmagazine.com/fiction/different-kinds-of-darkness/))
 
-Greg van Eekhout - In the Late December ([read online] (http://strangehorizons.com/fiction/in-the-late-december/
+Greg van Eekhout - In the Late December ([read online](http://strangehorizons.com/fiction/in-the-late-december/))
 
 Andy Weir - The Martian
 
@@ -47,9 +47,9 @@ Cormac McCarthy - The Road
 
 Octavia Butler - Bloodchild
 
-Greg Egan - Crystal Nights ([read online] (http://ttapress.com/553/crystal-nights-by-greg-egan/)
+Greg Egan - Crystal Nights ([read online](http://ttapress.com/553/crystal-nights-by-greg-egan/))
 
-Daniel Keyes - Flowers for Algernon ([read online] (http://knigger.org/keyes/flowers_for_algernon/lang/en/)
+Daniel Keyes - Flowers for Algernon ([read online](http://knigger.org/keyes/flowers_for_algernon/lang/en/))
 
 John Wyndham - The Day of the Triffids
 
@@ -69,9 +69,9 @@ Adrian Tchaikovsky - Children of Ruin
 
 Isaac Asimov - Foundation Trilogy
 
-Isaac Asimov - Profession ([read online] (http://www.inf.ufpr.br/renato/profession.html)
+Isaac Asimov - Profession ([read online](http://www.inf.ufpr.br/renato/profession.html))
 
-Isaac Asmimov - The Last Question ([read online] (http://www.multivax.com/last_question.html))
+Isaac Asmimov - The Last Question ([read online](http://www.multivax.com/last_question.html))
 
 Isaac Asimov - Nightfall
 
