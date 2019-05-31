@@ -15,7 +15,7 @@ Richard K Morgan - Altered Carbon Trilogy ([excerpt](http://www.infinityplus.co.
 
 Charles Stross - The Laundry Files
 
-Charles Stross - Equoid ([read online](https://www.tor.com/2013/09/24/equoid/)
+Charles Stross - Equoid ([read online](https://www.tor.com/2013/09/24/equoid/))
 
 Charles Stross - A Colder War ([read online](http://www.infinityplus.co.uk/stories/colderwar.htm))
 
