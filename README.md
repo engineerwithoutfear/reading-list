@@ -91,9 +91,9 @@ George Orwell - Animal Farm
 
 HG Wells - The War of the Worlds
 
-HP Lovecraft - At the Mountains of Madness
+HP Lovecraft - At the Mountains of Madness ([read online](http://www.hplovecraft.com/writings/texts/fiction/mm.aspx))
 
-HP Lovecraft - The Color Out of Space
+HP Lovecraft - The Color Out of Space ([read online](http://www.hplovecraft.com/writings/texts/fiction/cs.aspx))
 
 Harlan Ellison - I Have No Mouth and I Must Scream
 
