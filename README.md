@@ -109,7 +109,7 @@ Ray Bradbury - Fahrenheit 451
 
 Ray Bradbury - There Will Come Soft Rains ([read online](https://archive.org/download/RayBradbury-SoftRains/There%20Will%20Come%20Soft%20Rains%20-%20Ray%20Bradbury.pdf))
 
-Ray Bradbury - A Sound of Thunder
+Ray Bradbury - A Sound of Thunder ([read online](https://www.google.com/url?sa=t&source=web&rct=j&url=https://web1.nbed.nb.ca/sites/ASD-S/1820/J%2520Johnston/short%2520stories/A%2520Sound%2520of%2520Thunder%2520with%2520questions%2520--Ray%2520Bradbury.pdf&ved=2ahUKEwiL4MnJwMfiAhWBhOAKHddIBRQQFjALegQIARAB&usg=AOvVaw1gQ_JYfEOE6knbwXlnTQWq))
 
 JRRR Tolkien - The Silmarillion
 
