@@ -101,7 +101,7 @@ Fritz Leiber - A Pail of Air
 
 AE Vogt - Black Destroyer
 
-John Campbell - Who Goes There?
+John Campbell - Who Goes There? ([read online](https://github.com/roguephysicist/who_goes_there/blob/master/John-W-Campbell_Who-Goes-There_1938.markdown))
 
 Aldous Huxley - Brave New World
 
