@@ -97,9 +97,9 @@ HP Lovecraft - The Color Out of Space ([read online](http://www.hplovecraft.com/
 
 Harlan Ellison - I Have No Mouth and I Must Scream
 
-Fritz Leiber - A Pail of Air
+Fritz Leiber - A Pail of Air ([read online](https://www.baen.com/Chapters/0743498747/0743498747___6.htm))
 
-AE Vogt - Black Destroyer
+AE Vogt - Black Destroyer ([read online](https://www.baen.com/Chapters/0743498747/0743498747___5.htm))
 
 John Campbell - Who Goes There? ([read online](https://github.com/roguephysicist/who_goes_there/blob/master/John-W-Campbell_Who-Goes-There_1938.markdown))
 
