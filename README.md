@@ -65,7 +65,7 @@ Adrian Tchaikovsky - Children of Time
 
 Adrian Tchaikovsky - Children of Ruin
 
-Jonathan Lethem - Lostronaut ([read online]https://www.newyorker.com/magazine/2008/11/17/lostronaut))
+Jonathan Lethem - Lostronaut ([read online]https://www.newyorker.com/magazine/2008/11/17/lostronaut)
 
 # CLASSICS
 
