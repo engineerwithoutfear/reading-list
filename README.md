@@ -156,3 +156,7 @@ Carl Zimmer - Parasite Rex
 
 Isaac Asimov - A Choice of Catastrophes
 
+# ARTICLES
+
+How Sphex Broke Out Of Its Loop ([read online](https://www.rug.nl/research/portal/files/13139017/2012_Keijzer_Sphex_story.pdf))
+
