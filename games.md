@@ -24,6 +24,9 @@ Metal Gear Solid 3: Snake Eater
 Metal Gear Solid 4: Guns of the Patriots  
 Nier  
 Nier: Automata  
+Pokemon Red  
+Pokemon Yellow  
+Pokemon Crystal  
 Persona 3  
 Persona 4  
 Shadow of the Colossus  
