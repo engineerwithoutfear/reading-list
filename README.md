@@ -3,13 +3,15 @@ Books I like. Primarily sci-fi.
 
 # MODERN
 
+Peter Watts - Blindsight ([read online](https://rifters.com/real/Blindsight.htm))
+
+Peter Watts - Echopraxia
+
 Peter Watts - Bulk Food
 
-Peter Watts - Rifters trilogy
-
-Peter Watts - Blindsight
-
 Peter Watts - The Things ([read online](http://clarkesworldmagazine.com/watts_01_10/))
+
+Peter Watts - Rifters trilogy
 
 Richard K Morgan - Altered Carbon Trilogy ([excerpt](http://www.infinityplus.co.uk/stories/alteredcarbon.htm))
 
@@ -65,7 +67,11 @@ Adrian Tchaikovsky - Children of Time
 
 Adrian Tchaikovsky - Children of Ruin
 
+Adrian Tchaikovsky - The Expert System's Brother
+
 Jonathan Lethem - Lostronaut ([read online](https://www.newyorker.com/magazine/2008/11/17/lostronaut))
+
+Martha Wells - All Systems Red
 
 # CLASSICS
 
