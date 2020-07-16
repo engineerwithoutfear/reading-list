@@ -24,11 +24,17 @@ Metal Gear Solid 3: Snake Eater
 Metal Gear Solid 4: Guns of the Patriots  
 Nier  
 Nier: Automata  
+Parasite Eve  
 Pokemon Red  
 Pokemon Yellow  
 Pokemon Crystal  
 Persona 3  
 Persona 4  
+Resident Evil 1  
+Resident Evil 2  
+Resident Evil 3  
+Resident Evil 4  
+Resident Evil 5  
 Shadow of the Colossus  
 Sonic the Hedgehog  
 Sonic the Hedgehog 2  
