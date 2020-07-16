@@ -2,9 +2,12 @@
 
 Avatar: The Last Airbender (close enough)  
 Casshern Sins   
-Code Geass
-Digimon S1/S2  
+Code Geass  
+Diebuster  
+Digimon Adventure  
+Digimon Adventure 02  
 Digmon Tamers  
+Elfen Lied  
 Ergo Proxy  
 Ghost in the Shell  
 Ghost in the Shell: SAC  
@@ -17,6 +20,7 @@ Mahou Shojou Madoka Magica
 Neon Genesis Evangelion  
 One Punch Man  
 Princess Mononoke  
+Princess Tutu  
 Rahxephon  
 Trinity Blood   
 Tengen Toppa Gurren Lagann  
@@ -31,9 +35,23 @@ Cardcaptor Sakura
 Claymore  
 Death Note  
 Full Metal Alchemist  
+Gantz
 Hellsing  
 Magic Knight Rayearth  
-Princess Tutu  
+Ranma 1/2  
+Rurouni Kenshin  
 Sailor Moon  
 Tokyo Babylon  
 X  
+XXXholic  
+
+# TBD 
+
+Darker Than Black  
+Psychopass  
+Cyborg 009  
+Blame!  
+Legend of the Galactic Heroes  
+Revolutionary Girl Utena  
+Paprika  
+Perfect Blue  
