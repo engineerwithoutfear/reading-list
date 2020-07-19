@@ -16,7 +16,7 @@ Mobile Suit Zeta Gundam
 Mobile Suit Gundam 0080: War in the Pocket  
 Mobile Suit Gundam: The 08th MS Team  
 Mobile Suit Gundam Turn A  
-Mahou Shojou Madoka Magica  
+Mahou Shoujo Madoka Magica  
 Neon Genesis Evangelion  
 One Punch Man  
 Princess Mononoke  
@@ -26,6 +26,8 @@ Trinity Blood
 Tengen Toppa Gurren Lagann  
 Trigun  
 Twelve Kingdoms  
+Vision of Escaflowne
+Voices of a Distant Star
 
 # Manga
 
