@@ -1,12 +1,13 @@
 # Games
 
-Games I played and enjoyed enough to want to remember them/discuss them. 
+Games I enjoyed enough to want to remember them/discuss them. 
 
 # Japanese
 
 Catherine  
 Chrono Trigger  
-Chrono Cross  
+Chrono Cross
+Crying Suns
 Dark Souls 3  
 Ecco: The Tides of Time  
 Ecco: Defender of the Future  
