@@ -67,6 +67,8 @@ Adrian Tchaikovsky - Children of Time
 
 Adrian Tchaikovsky - Children of Ruin
 
+Adrian Tchaikovsky - Dogs of War
+
 Adrian Tchaikovsky - The Expert System's Brother
 
 Jonathan Lethem - Lostronaut ([read online](https://www.newyorker.com/magazine/2008/11/17/lostronaut))
